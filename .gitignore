@@ -1,0 +1,33 @@
+# Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data and generated files
+data/
+
+# lighthouse mirror
+lighthouse/model/
+lighthouse/testset/
+
+# inverse-rendering-of-indoor-scene mirror
+irois/models/
